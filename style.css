@@ -223,6 +223,7 @@ Defaulkt values for the images that we will be using as the background images fo
 .score-container, .share-button-container{
     margin-right:5px ;
     margin-left: 5px;
+display:flex;
     height: 57px;
     width: 50%;
     font-weight: 600;
